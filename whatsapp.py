@@ -4,7 +4,7 @@ from datetime import datetime
 def send_whatsapp_message():
     
     phone_number = '+1********' # Don't forget to include the country code
-    message = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+    message = 'xxxxxxxxxxxxxxxxxxxxxxxx' # Type your message here
 
 
     current_time = datetime.now()
